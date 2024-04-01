@@ -1,0 +1,29 @@
+# Règles classiques:
+Avec les règles de base, chaque attaque porte un coup. Dans le jeu classique, les attaques peuvent être
+parées.
+# Attaques et parades:
+Comme avec les règles de base, un joueur attaque en jouant une carte simple portant un chiffre correspondant
+au nombre de cases séparant les escrimeurs (la figurine de bouge pas: il s'agit d'une attaque et non d'un
+mouvement). L'attaquant peut maintenant jouer plusieurs cartes de la même valeur pour renforcer son attaque.
+Une fois qu'il a joué toutes les cartes voulues, sont tour se termine et il complète sa main à 5 cartes. Son
+adversaire a maintenant la possibilité de parer l'attaque: il doit pour cela jouer le même nombre de cartes
+(de même valeur) que son adversaire. L'adversaire peut parer une attaque de une ou plusieurs cartes (il
+n'est toutefois pas possible de parer une attaque de 3 cartes puisqu'il n'y a que 5 cartes pour chaque
+valeur).
+Par exemple, si l'attaquant a joué une carte "3" comme attaque, ainsi qu'une autre carte "3" pour la
+renforcer, son adversaire peut effectuer une parade en jouant deux cartes "3". Si le défenseur ne peut parer
+l'attaque, l'attaquant réussit à porter un coup et remporte alors la manche.
+Une parade est toujours faite en dehors du tour du joueur. Il ne peut donc pas compléter sa main avant
+d'avoir effectué son tour normalement. S'il peut parer une attaque, le joueur effectue ensuite son tour de
+jeu, avec toutefois moins de 5 cartes en main. Il peut effectuer un mouvement ou une attaque, puis compléter
+enfin sa main à 5 cartes.
+
+# Finir et gagner une manche :
+Comme avec les règles de base, la manche s'achève au plus tard lorsque la dernière carte de la pioche est
+prise en main par l'un des joueurs. Si le dernier joueur à avoir joué a attaqué son adversaire, celui-ci a
+tout de même la possibilité de se défendre en parant l'attaque (sinon il perd la manche).
+Si toutes les cartes ont été piochées sans qu'un joueur ne gagne la manche, les joueurs révèlent alors les
+cartes qu'ils ont en main. On regarde alors qui possède le plus de cartes permettant une attaque immédiate,
+c'est-à-dire les cartes portant un chiffre correspondant au nombre de cases séparant les deux escrimeurs. Si
+un joueur a plus de cartes de la bonne valeur que l'autre, il gagne la manche. S'il y a toujours égalité, la
+manche est gagnée par le joueur dont l'escrimeur a le plus avancé sur la piste.

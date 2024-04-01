@@ -1,0 +1,37 @@
+# Règles avancées :
+Les règles classiques autorisent 3 possibilités :
+1- Avancer son escrimeur
+2- Reculer son escrimeur
+3- Porter une attaque
+Les joueurs qui veulent un peu plus de piment peuvent introduire une quatrième possibilité qui augmente la
+puissance des escrimeurs :
+4- Avancer et attaquer
+
+Cela se traduit par la pose de plusieurs cartes: une pour avancer l'escrimeur (comme dans la possibilité
+1-), et les autres pour attaquer dans le même tour de jeu.
+
+Par exemple, si les deux escrimeurs sont séparés par 8 cases, un joueur peut jouer une carte "3" pour
+avancer de 3 cases, puis une carte "5" dans le même tour pour attaquer. Le joueur qui est attaqué a
+maintenant deux façons de se défendre :
+1- Il peut parer l'attaque selon les règles classiques (dans l'exemple ci-dessus, il doit jouer une carte
+"5" pour parer). Après une parade, le joueur peut effectuer un mouvement, attaquer, ou avancer et attaquer.
+Sa main ne sera complétée à 5 cartes qu'à la fin du tour normal (et non pas juste après la parade).
+2- Il peut battre en retraite en reculant sur la piste. Le joueur pose une carte et recule du nombre de
+cases indiquées. La retraite est un tour de jeu normal : elle met fin au tour du joueur qui bat en retraite,
+et celui-ci pioche une carte pour compléter sa main à 5 cartes.
+Important: une attaque normale (possibilité 3- ci-dessus) peut être uniquement parée, la retraite n'étant
+autorisée que lorsque l'adversaire avance et attaque dans le même tour.
+
+# Finir et gagner une manche
+Microsoft Word - En Garde- règles.doc - Okular
+2 sur 2
+Parcourir Al Selection de texte
+Surbrillance jaune
+Tout se déroule comme avec les règles classiques, avec l'exception suivante : si la dernière action d'un
+joueur était d'avoir avancé et attaqué dans le même tour, son adversaire a la possibilité de parer l'attaque
+ou de battre en retraite. S'il ne peut faire ni l'un ni l'autre, il perd la manche immédiatement. La
+retraite dans une telle situation est le seul mouvement autorisé après que la pioche de cartes ait été
+épuisée.
+Si le défenseur pare l'attaque, tout se déroule comme avec les règles classiques; mais si le défenseur bat
+en retraite, la manche est gagnée par le joueur dont l'escrimeur a le plus avancé sur la piste (il n'y a pas
+dans ce cas de comparaison des cartes en main).

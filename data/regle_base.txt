@@ -1,0 +1,39 @@
+# Règles de base:
+Le jeu de base est la manière la plus facile de jouer. Le plateau représente une piste d'escrime de 23 cases
+et 2 tableaux de score (allant de 0 à 5 chacun). Les 2 marqueurs sont placés sur les cases 0 de ces tableaux
+et chaque joueur choisit l'un des 2 escrimeurs.
+
+# Déroulement du jeu
+Une partie se joue en plusieurs manches. Le premier joueur à en remporter 5 est déclaré vainqueur.
+Au début de chaque manche, les deux escrimeurs sont placés chacun à une extrémité de la piste et les 25
+cartes Escrime sont mélangées. Chaque joueur reçoit 5 cartes qui constituent sa main de départ. Les cartes
+restantes forment la pioche face cachée. Le joueurs choisissent qui commence et le premier joueur changera à
+chaque manche.
+
+Les joueurs jouent alternativement. Le joueur en cours choisit l'une de ses cartes et bouge son escrimeur du
+nombre exact de cases sur la piste. Le joueur peut décider d'avancer son escrimeur ou de le reculer.
+L'escrimeur ne peut jamais sortir de la piste, ni arriver sur la case de l'autre escrimeur, ni la dépasser
+
+À la fin de son tour, le joueur pioche une carte de manière à avoir toujours 5 cartes en main; son
+adversaire joue alors selon les mêmes règles. Les cartes jouées sont défaussées faces visibles en une pile
+de manière à ce que seule la carte du dessus soit visible. Il est interdit de fouiller la défausse pour
+connaître les cartes déjà jouées.
+
+# Attaques et coups:
+Si un joueur peut jouer une carte permettant à son escrimeur d'arriver exactement sur la case de l'escrimeur
+adverse, il ne bouge pas sa figurine mais réalise une attaque. Dans les règles de base, chaque attaque est
+un coup gagnant.
+
+# Finir et gagner une manche
+Une manche s'achève dès qu'un joueur réussit à porter un coup à son adversaire il gagne alors la manche.
+Une manche peut également se finir lorsqu'un joueur ne peut plus effectuer de mouvement autorisé. Ce dernier
+perd alors la manche.
+Si aucun joueur n'a réussi à gagner la manche en cours, elle prend fin lorsque la dernière carte de la
+pioche est prise. Les joueurs peuvent compter les cartes de la pioche à tout moment. Une fois la dernière
+carte piochée, les escrimeurs ne peuvent plus bouger, mais l'adversaire a une dernière chance d'attaquer et
+de gagner ainsi la manche.
+Si une manche s'achève sans qu'il y ait de vainqueur, elle est tout de même gagnée par le joueur dont
+l'escrimeur a le plus avancé sur la piste. Si les 2 joueurs ont avancé du même nombre de cases chacun, la
+manche est nulle.
+Le joueur qui gagne une manche avance son marqueur d'une case sur le tableau de score correspondant. Dès
+qu'un marqueur atteint la case 5, son propriétaire est déclaré vainqueur de la partie.
